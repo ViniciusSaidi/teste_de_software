@@ -32,4 +32,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: coverage-report
+<<<<<<< HEAD
           path: htmlcov/
+=======
+          path: htmlcov/
+>>>>>>> origin/main
